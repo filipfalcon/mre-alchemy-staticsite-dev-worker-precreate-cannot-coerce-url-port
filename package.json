@@ -1,0 +1,14 @@
+{
+  "name": "mre-alchemy-staticsite-dev-worker-precreate-cannot-coerce-url-port",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "alchemy dev"
+  },
+  "dependencies": {
+    "@effect/platform-bun": "4.0.0-beta.85",
+    "@effect/platform-node": "4.0.0-beta.85",
+    "alchemy": "2.0.0-beta.57",
+    "effect": "4.0.0-beta.85"
+  }
+}
